@@ -1,12 +1,29 @@
-# React + Vite
+# Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive portfolio website built with React, Vite, and Tailwind CSS. This single-page application showcases my skills, projects, and professional experience with a sleek dark-mode design.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Responsive Design**: Works on all device sizes
+- **Dark Mode**: Elegant dark theme with subtle accent colors
+- **Smooth Navigation**: Single-page application with scrollable sections
+- **Modern UI**: Clean, minimalist design with subtle gradients and animations
+- **Performance Optimized**: Built with Vite for fast loading
 
-## Expanding the ESLint configuration
+## Technologies Used
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- ⚛️ React 18
+- 🚀 Vite
+- 🎨 Tailwind CSS
+- ✨ Framer Motion (for animations)
+- 📱 Fully Responsive Design
+
+## Sections
+
+1. **Hero**: Introduction with call-to-action
+2. **About**: Personal bio and skills overview
+3. **Technologies**: Tech stack with proficiency indicators
+4. **Certificates**: Professional certifications
+5. **Experience**: Work history timeline
+6. **Projects**: Featured work with descriptions
+7. **Contact**: Contact information
