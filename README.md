@@ -1,12 +1,32 @@
-# React + Vite
+# 🚀 Portfolio Website ✨
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A **modern**, **responsive** portfolio website built with ⚛️ React, 🚀 Vite, and 🎨 Tailwind CSS. This single-page application showcases my skills, projects, and professional experience with a sleek 🌙 dark-mode design.
 
-Currently, two official plugins are available:
+## 🌟 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- 📱 **Responsive Design**: Works flawlessly on all device sizes
+- 🌑 **Dark Mode**: Elegant dark theme with vibrant accent colors
+- 🛳️ **Smooth Navigation**: Single-page application with buttery-smooth scrolling
+- 🎭 **Modern UI**: Clean, minimalist design with subtle gradients and animations
+- ⚡ **Performance Optimized**: Built with Vite for lightning-fast loading
+- ✨ **Interactive Elements**: Engaging hover effects and transitions
 
-## Expanding the ESLint configuration
+## 🛠️ Technologies Used
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- ⚛️ React 18 (Latest stable version)
+- 🚀 Vite (Next-gen frontend tooling)
+- 🎨 Tailwind CSS (Utility-first CSS framework)
+- ✨ Framer Motion (Buttery-smooth animations)
+- 📱 Fully Responsive Design (Mobile-first approach)
+- 🔍 SEO Optimized (Better visibility)
+- 🌈 CSS Animations (Eye-catching effects)
+
+## 📜 Sections Breakdown
+
+1. 🦸 **Hero** - First impression with call-to-action button
+2. 👨‍💻 **About** - Personal bio and core skills showcase
+3. ⚙️ **Technologies** - Tech stack with proficiency indicators
+4. 🏆 **Certificates** - Professional certifications display
+5. 📅 **Experience** - Work history timeline with key achievements
+6. 🛠️ **Projects** - Featured work with descriptions and live demos
+7. 📧 **Contact** - Easy ways to get in touch
